@@ -11,4 +11,6 @@ Instructions for playing this game:
 
 4) Player can move up, down, left or right, using the appropriate arrow keys
 
-5) Have fun!  Good luck!!
+5) To start the game, click on index.html
+
+6) Have fun!  Good luck!!
