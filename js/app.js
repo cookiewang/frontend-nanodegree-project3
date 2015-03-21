@@ -3,7 +3,7 @@ var yPath = [65, 148, 231];
 //Define random number for x axis speed
 var randomNumber = 0;
 var score = 0;
-var ctx = null;
+
 // Enemies our player must avoid
 var Enemy = function (y) {
     this.sprite = 'images/enemy-bug.png';
